@@ -3,3 +3,4 @@ Daily experiments with Data Structures &amp; Algorithms in Java — solving prob
 
 # Array Basics:
 1. Print Each Array Element with Its Index
+2. Print an Array in Reverse Without Changing It
