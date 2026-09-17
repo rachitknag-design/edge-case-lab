@@ -7,3 +7,4 @@ Daily experiments with Data Structures &amp; Algorithms in Java — solving prob
 3. Find the Second Largest Element in an Array Without Sorting.
 4. Move all zeroes to the end
 5. Maximum Subarray
+6. Two Sum
