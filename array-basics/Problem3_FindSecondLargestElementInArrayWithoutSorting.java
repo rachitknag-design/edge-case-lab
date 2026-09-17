@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Problem3_FindSecondLargestElementInArrayWithoutSorting {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        
         int[] arr = {12, 35, 1, 10, 34, 1};
         int max = Integer.MIN_VALUE;
         int second_max = Integer.MIN_VALUE;
@@ -17,6 +15,5 @@ public class Problem3_FindSecondLargestElementInArrayWithoutSorting {
         }
         System.out.println("Largest Element: "+max);
         System.out.println("Second Largest Element: "+second_max);
-        sc.close();
     }
 }
